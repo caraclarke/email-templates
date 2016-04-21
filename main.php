@@ -96,8 +96,8 @@
         }
         .button-td:hover,
         .button-a:hover {
-            background: #555555 !important;
-            border-color: #555555 !important;
+            background: #000 !important;
+            border-color: #000 !important;
         }
 
         /* Media Queries */
@@ -151,7 +151,7 @@
     </style>
 
 </head>
-<body bgcolor="#222222" width="100%" style="Margin: 0;">
+<body bgcolor="#fff" width="100%" style="Margin: 0;">
     <?php include 'header.php';?>
     <table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="600" class="email-container">
       <?php include 'landing-image.php';?>

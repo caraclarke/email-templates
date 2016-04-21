@@ -1,5 +1,5 @@
 <?php
-echo '<table bgcolor="#222222" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;"><tr><td valign="top">
+echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;"><tr><td valign="top">
     <center style="width: 100%;">
 
         <!-- Visually Hidden Preheader Text : BEGIN -->
@@ -19,12 +19,12 @@ echo '<table bgcolor="#222222" cellpadding="0" cellspacing="0" border="0" height
 				
 				<table align="center" width="600" class="email-container">
 					<tr>
-						<td style="padding: 5px; text-align: center; font-family: sans-serif; font-size: 30px; mso-height-rule: exactly; line-height: 20px; color: #fff;">
+						<td style="padding: 5px; text-align: center; font-family: sans-serif; font-size: 30px; mso-height-rule: exactly; line-height: 20px; color: #000;">
 								Maecenas sed ante pellentesque.
 						</td>
 					</tr>
 					<tr>
-							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #fff;">
+							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000;">
 									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 							</td>
 					</tr>
