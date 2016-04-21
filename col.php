@@ -14,8 +14,7 @@ echo '<tr>
                         <tr>
                             <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #000; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
                                 Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            
-                            
+                                <br><br>
                                 <table cellspacing="0" cellpadding="0" border="0" class="center-on-narrow" style="float:left;">
                                     <tr>
                                         <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td">
@@ -42,7 +41,7 @@ echo '<tr>
                         <tr>
                             <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #000; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
                                 Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            
+                                <br><br>
                                 <table cellspacing="0" cellpadding="0" border="0" class="center-on-narrow" style="float:left;">
                                     <tr>
                                         <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td">
@@ -68,7 +67,7 @@ echo '<tr>
                         <tr>
                             <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #000; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
                                 Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            
+                                <br><br>
                                 <table cellspacing="0" cellpadding="0" border="0" class="center-on-narrow" style="float:left;">
                                     <tr>
                                         <td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td">
