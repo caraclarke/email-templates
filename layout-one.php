@@ -155,7 +155,7 @@
     <?php include 'header.php';?>
     <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="600" class="email-container">
       <?php include 'landing-image.php';?>
-      <?php include 'col.php';?>
+      <?php include 'three-cols.php';?>
     </table>
     <?php include 'footer.php';?>
   </body>

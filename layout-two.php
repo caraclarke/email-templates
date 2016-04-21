@@ -153,6 +153,11 @@
 </head>
 <body bgcolor="#fff" width="100%" style="Margin: 0;">
   <?php include 'header.php';?>
+  <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="600" class="email-container">
+    <?php include 'main-layout-two.php';?>
+    <?php include 'two-cols.php';?>
+    <?php include 'full-width-text.php';?>
+  </table>
   <?php include 'footer.php';?>
 </body>
 </html>
