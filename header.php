@@ -24,8 +24,14 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
 						</td>
 					</tr>
 					<tr>
-							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000;">
+							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000; border-bottom: 3px solid blue">
 									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+							</td>
+					</tr>
+          
+          <tr>
+							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000;">
+									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 							</td>
 					</tr>
 				</table>';
