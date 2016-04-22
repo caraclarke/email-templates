@@ -23,7 +23,7 @@ echo '
       <p class="textPadding" style="margin-bottom:0px;">Bathe private parts with tongue then lick owner\'s face sniff other cat\'s butt and hang jaw half open thereafter. Rub face on owner hack up furballs yet vommit food and eat it again loves cheeseburgers chase laser. Spit up on light gray carpet instead of adjacent linoleum eat the fat cats food. Scamper. Stare at ceiling light meowzer! and instantly break out into full speed gallop across the house for no reason tuxedo cats always looking dapper. Shove bum in owner\'s face like camera lens run in circles meow all night having their mate disturbing sleeping humans or when in doubt, wash but if it fits, i sits. Plan steps for world domination scamper.</p>
       <br><br>
       <!--  BEGIN BUTTON -->
-      <table border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:3px; background-color:#6DC6DD; width:75%;">
+      <table border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:3px; background-color:#6DC6DD; width:50%;">
         <tr>
           <td align="center" align="middle" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
             <a href="..." target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
