@@ -9,10 +9,10 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
         <!-- Visually Hidden Preheader Text : END -->
 
         <!-- Email Header : BEGIN -->
-        <table align="left" width="600" class="email-container">
+        <table align="left" width="100%" class="email-container">
 			<tr>
 				<td style="padding: 20px 0; text-align: center">
-					<img src="http://placehold.it/200x50" width="200" height="50" alt="alt_text" border="0">
+					<img style="margin-right:410px;" src="http://placehold.it/200x50" width="200" height="50" alt="alt_text" border="0">
 				</td>
 			</tr>
         </table>
