@@ -99,6 +99,10 @@
             background: #000 !important;
             border-color: #000 !important;
         }
+				
+				.thingie {
+					padding: 10px 25px 25px 25px;
+				}
 
         /* Media Queries */
         @media screen and (max-width: 600px) {
@@ -147,11 +151,31 @@
             }
 						
 						.paddingMin {
-							padding: 0 10px 10px  !important;
+							padding: 0 10px 0 10px  !important;
 						}
 						
 						.imagePaddingMin {
 							padding: 10px !important;
+						}
+						
+						.widthChangeLanding {
+							width: 100% !important;
+							border-radius: 0px !important;
+						}
+						
+						.textPadding {
+							padding: 10px 25px 0px 25px !important;
+							margin-bottom: 0px !important;
+							margin-top: 0px !important;
+						}
+						
+						.paddingButtonMin {
+							padding-top: 20px !important;
+							padding-bottom: 20px !important;
+						}
+						
+						.thingie {
+							padding: 0px !important;
 						}
                 
         }
