@@ -47,7 +47,7 @@
                       <table cellspacing="0" cellpadding="0" border="0">
                           <tr>
                               <td style="padding: 10px; text-align: center">
-                                  <img src="http://placehold.it/300" width="300" height="475" alt="alt_text" border="0" class="fluid">
+                                  <img src="http://placekitten.com/300/475" width="300" height="475" alt="alt_text" border="0" class="fluid">
                               </td>
                           </tr>
                       </table>

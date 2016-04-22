@@ -12,7 +12,7 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
         <table align="left" width="100%" class="email-container">
 			<tr>
 				<td style="padding: 20px 0; text-align: center">
-					<img style="margin-right:40%;" src="http://placehold.it/200x50" width="200" height="50" alt="alt_text" border="0">
+					<img style="margin-right:30%;" src="http://placekitten.com/200/50" width="200" height="50" alt="alt_text" border="0">
 				</td>
 			</tr>
         </table>

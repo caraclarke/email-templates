@@ -8,7 +8,7 @@
                       <table cellspacing="0" cellpadding="0" border="0">
                           <tr>
                               <td style="padding: 10px; text-align: center">
-                                  <img src="http://placehold.it/270" width="100%" height="270" alt="alt_text" border="0" class="fluid">
+                                  <img src="http://placekitten.com/270/" width="100%" height="270" alt="alt_text" border="0" class="fluid">
                               </td>
                           </tr>
                           <tr>
@@ -34,7 +34,7 @@
                       <table cellspacing="0" cellpadding="0" border="0">
                           <tr>
                               <td style="padding: 10px; text-align: center">
-                                  <img src="http://placehold.it/270" width="100%" height="270" alt="alt_text" border="0" class="fluid">
+                                  <img src="http://placekitten.com/270/" width="100%" height="270" alt="alt_text" border="0" class="fluid">
                               </td>
                           </tr>
                           <tr>
