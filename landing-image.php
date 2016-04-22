@@ -1,7 +1,7 @@
 <?php
 echo '<tr>
 <td>
-<img src="http://placehold.it/600x300" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px;">
+<img src="http://placehold.it/600x300" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 800px;">
 </td>
 </tr>
 <!-- Hero Image, Flush : END -->
