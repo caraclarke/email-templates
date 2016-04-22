@@ -1,9 +1,10 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta charset="utf-8"> <!-- utf-8 works for most cases -->
-	<meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
+	<meta charset="utf-8"></meta> <!-- utf-8 works for most cases -->
+	<meta name="viewport" content="width=device-width"></meta> <!-- Forcing initial-scale shouldn't be necessary -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"></meta> <!-- Use the latest (edge) version of IE rendering engine -->
 	<title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
 
 	<!-- Web Font / @font-face : BEGIN -->
@@ -33,9 +34,7 @@
         html,
         body {
 	        margin: 0 auto !important;
-            padding: 0 !important;
-            height: 100% !important;
-            width: 100% !important;
+          padding: 0 !important;
         }
         
         /* What it does: Stops email clients resizing small text. */
@@ -87,7 +86,7 @@
     </style>
     
     <!-- Progressive Enhancements -->
-    <style>
+    <style type="text/css">
         
         /* What it does: Hover styles for buttons */
         .button-td,
@@ -177,14 +176,14 @@
 		</style>
 
 </head>
-<body bgcolor="#fff" width="100%" style="Margin: 0;">
+<body bgcolor="#fff" style="margin: 0px auto; max-width:600px">
   <?php include 'header-two.php';?>
-  <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="600" class="email-container">
+  <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" width="100%" class="email-container">
     <?php include 'stacked-col-img.php';?>
     <?php include 'two-cols.php';?>
     <?php include 'full-width-text.php';?>
   </table>
-	<hr>
+	<hr></hr>
   <?php include 'footer.php';?>
 </body>
 </html>
