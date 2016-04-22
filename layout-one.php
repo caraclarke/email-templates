@@ -100,7 +100,7 @@
             border-color: #000 !important;
         }
 				
-				.thingie {
+				.changeImgPadding {
 					padding: 10px 25px 25px 25px;
 				}
 
@@ -140,7 +140,7 @@
         
             /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
             .center-on-narrow {
-                text-align: center !important;
+                text-align: left !important;
                 display: block !important;
                 Margin-left: auto !important;
                 Margin-right: auto !important;
@@ -174,8 +174,13 @@
 							padding-bottom: 20px !important;
 						}
 						
-						.thingie {
+						.changeImgPadding {
 							padding: 0px !important;
+						}
+						
+						.leftOnMin {
+							text-align: left !important;
+							padding-left: 10px !important;
 						}
                 
         }
