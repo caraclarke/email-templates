@@ -12,12 +12,12 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
         <table align="left" width="100%" class="email-container">
 			<tr>
 				<td style="padding: 20px 0; text-align: center">
-					<img style="margin-right:50%;" src="http://placehold.it/200x50" width="200" height="50" alt="alt_text" border="0">
+					<img style="margin-right:40%;" src="http://placehold.it/200x50" width="200" height="50" alt="alt_text" border="0">
 				</td>
 			</tr>
         </table>
 				
-				<table align="center" width="800" class="email-container">
+				<table align="center" width="600" class="email-container">
 					<tr>
 						<td style="padding: 5px; text-align: center; font-family: sans-serif; font-size: 30px; mso-height-rule: exactly; line-height: 20px; color: #000;">
 								Maecenas sed ante pellentesque.

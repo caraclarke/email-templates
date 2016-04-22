@@ -153,7 +153,7 @@
 </head>
 <body bgcolor="#fff" width="100%" style="Margin: 0;">
     <?php include 'header.php';?>
-    <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="800" class="email-container">
+    <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="600" class="email-container">
       <?php include 'landing-image.php';?>
       <?php include 'three-cols.php';?>
     </table>

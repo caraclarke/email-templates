@@ -1,5 +1,5 @@
 <?php
-  echo '<table align="center" width="800" class="email-container">
+  echo '<table align="center" width="600" class="email-container">
       <tr>
           <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;">
               <webversion style="color:#cccccc; text-decoration:underline; font-weight: bold;">View as a Web Page</webversion>
