@@ -149,10 +149,24 @@
         }
 
     </style>
+		
+		<style type="text/css">
+    @media only screen and (max-width: 480px){
+        .emailButton{
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+        .emailButton a{
+            display:block !important;
+            font-size:18px !important;
+        }
+    }
+</style>
 
 </head>
 <body bgcolor="#fff" width="100%" style="Margin: 0;">
-  <?php include 'header.php';?>
+  <?php include 'header-two.php';?>
   <table cellspacing="0" cellpadding="0" border="0" align="" bgcolor="#ffffff" width="600" class="email-container">
     <?php include 'main-layout-two.php';?>
     <?php include 'two-cols.php';?>

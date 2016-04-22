@@ -7,7 +7,7 @@
                   <td class="stack-column-center">
                       <table cellspacing="0" cellpadding="0" border="0">
                           <tr>
-                              <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                              <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0px 10px 10px 0px; text-align: left;" class="center-on-narrow">
                               <h1>heyhey</h1>
                                   Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
                                   <br><br>
@@ -24,7 +24,7 @@
                           </tr>
                           
                           <tr>
-                              <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align: left;" class="center-on-narrow">
+                              <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0px 10px 10px 0px; text-align: left;" class="center-on-narrow">
                               <h1>heyhey</h1>
                                   Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
                                   <br><br>
@@ -47,7 +47,7 @@
                       <table cellspacing="0" cellpadding="0" border="0">
                           <tr>
                               <td style="padding: 10px; text-align: center">
-                                  <img src="http://placekitten.com/300/475" width="300" height="475" alt="alt_text" border="0" class="fluid">
+                                  <img src="http://placekitten.com/290/475" width="290" height="475" alt="alt_text" border="0" class="fluid">
                               </td>
                           </tr>
                       </table>

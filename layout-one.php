@@ -186,6 +186,20 @@
         }
 
     </style>
+		
+		<style type="text/css">
+    @media only screen and (max-width: 480px){
+        .emailButton{
+            max-width:600px !important;
+            width:100% !important;
+        }
+
+        .emailButton a{
+            display:block !important;
+            font-size:18px !important;
+        }
+    }
+</style>
 
 </head>
 <body bgcolor="#fff" width="100%" style="Margin: 0;">
