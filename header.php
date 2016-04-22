@@ -4,7 +4,7 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
 
         <!-- Visually Hidden Preheader Text : BEGIN -->
         <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;">
-            (Optional) This text will appear in the inbox preview, but not the email body.
+            <!-- (Optional) This text will appear in the inbox preview, but not the email body. -->
         </div>
         <!-- Visually Hidden Preheader Text : END -->
 
@@ -20,18 +20,18 @@ echo '<table bgcolor="#fff" cellpadding="0" cellspacing="0" border="0" height="1
 				<table align="center" width="600" class="email-container">
 					<tr>
 						<td style="padding: 5px; text-align: center; font-family: sans-serif; font-size: 30px; mso-height-rule: exactly; line-height: 20px; color: #000;">
-								Maecenas sed ante pellentesque.
+								Pelt around the house.
 						</td>
 					</tr>
 					<tr>
 							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000; border-bottom: 3px solid blue">
-									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+									 And up and down stairs chasing phantoms get video posted to internet for chasing red dot
 							</td>
 					</tr>
           
           <tr>
-							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000;">
-									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+							<td style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #000;">
+									All of a sudden cat goes crazy pee in human\'s bed until he cleans the litter box burrow under covers climb leg. Sun bathe cats go for world domination, the dog smells bad. Chase imaginary bugs chase the pig around the house for white cat sleeps on a black shirt and sit on the laptop.
 							</td>
 					</tr>
 				</table>';
