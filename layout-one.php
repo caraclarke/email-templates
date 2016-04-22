@@ -145,6 +145,14 @@
             table.center-on-narrow {
                 display: inline-block !important;
             }
+						
+						.paddingMin {
+							padding: 0 10px 10px  !important;
+						}
+						
+						.imagePaddingMin {
+							padding: 10px !important;
+						}
                 
         }
 
