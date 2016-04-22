@@ -158,6 +158,7 @@
     <?php include 'two-cols.php';?>
     <?php include 'full-width-text.php';?>
   </table>
+	<hr>
   <?php include 'footer.php';?>
 </body>
 </html>

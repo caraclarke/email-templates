@@ -157,6 +157,7 @@
       <?php include 'landing-image.php';?>
       <?php include 'three-cols.php';?>
     </table>
+		<hr>
     <?php include 'footer.php';?>
   </body>
 </html>
