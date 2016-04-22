@@ -136,7 +136,7 @@
         
             /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
             .center-on-narrow {
-                text-align: center !important;
+                text-align: left !important;
                 display: block !important;
                 Margin-left: auto !important;
                 Margin-right: auto !important;
@@ -145,6 +145,18 @@
             table.center-on-narrow {
                 display: inline-block !important;
             }
+						
+						.imagePaddingMin {
+							padding: 10px !important;
+						}
+						
+						.paddingMin {
+							padding: 0 10px 0 10px  !important;
+						}
+						
+						.minPaddingChange {
+							padding: 10px 20px !important;
+						}
                 
         }
 
