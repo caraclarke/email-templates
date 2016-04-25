@@ -18,10 +18,6 @@
           display: block !important;
           font-size: 18px !important;
       }
-      
-      .changeMinWidth {
-        padding: 10px 0px 0px 0px !important;
-      }
     }
   
     @media screen and (max-width: 400px) {
@@ -83,12 +79,13 @@
             <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
             <![endif]-->
             <table class="outer" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 auto;width:100%;max-width:600px;">
-              <?php include 'header.php';?>
-              <?php include 'landing-image.php';?>
-              <?php include 'three-cols.php';?>
-              <?php include 'footer.php';?>
+              <?php include 'header-nmq.php'; ?>
+              <?php include 'stacked-col-img-nmq.php';?>
+              <?php include 'two-cols-nmq.php';?>
+              <?php include 'full-width-text-nmq.php';?>
+              <?php include 'footer-nmq.php';?>
             </table>
           </div>
         </center>
-</body>
-</html>
+  </body>
+  </html>
