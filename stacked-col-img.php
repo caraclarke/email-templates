@@ -22,7 +22,7 @@ echo '
                 <!-- END BUTTON -->
               </td>
             </tr>
-          
+
             <tr>
               <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0px 10px 10px 10px; text-align: left;" class="center-on-narrow">
                 <h1>heyhey</h1>

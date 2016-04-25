@@ -1,4 +1,4 @@
-<?php 
+<?php
 echo '
 <tr>
     <td style="padding: 20px 0px 10px 0px; text-align: center; border-top: 1px solid black;">

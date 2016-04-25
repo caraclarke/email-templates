@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title></title>
   <style type="text/css">
-  
+
   @media only screen and (max-width: 480px) {
       .emailButton {
           max-width: 600px !important;
@@ -19,7 +19,7 @@
           font-size: 18px !important;
       }
     }
-  
+
     @media screen and (max-width: 400px) {
     .two-column .column,
     .three-column .column {
@@ -41,7 +41,7 @@
       max-width: 50% !important;
     }
     }
-      
+
       @media screen and (max-width: 400px) {
       .two-column .column,
         .three-column .column {
@@ -54,7 +54,7 @@
             max-width: 50% !important;
         }
       }
-      
+
       @media screen and (min-width: 401px) and (max-width: 620px) {
         .three-column .column {
                 max-width: 33% !important;

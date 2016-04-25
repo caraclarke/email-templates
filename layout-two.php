@@ -9,7 +9,7 @@
 
 	<!-- Web Font / @font-face : BEGIN -->
 	<!-- NOTE: If web fonts are not required, lines 9 - 26 can be safely removed. -->
-	
+
 	<!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
 	<!--[if mso]>
 		<style>
@@ -18,14 +18,14 @@
 			}
 		</style>
 	<![endif]-->
-	
+
 	<!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
 	<!--[if !mso]><!-->
 		<!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'> -->
 	<!--<![endif]-->
 
 	<!-- Web Font / @font-face : END -->
-	
+
 	<!-- CSS Reset -->
     <style type="text/css">
 
@@ -36,25 +36,25 @@
 	        margin: 0 auto !important;
           padding: 0 !important;
         }
-        
+
         /* What it does: Stops email clients resizing small text. */
         * {
             -ms-text-size-adjust: 100%;
             -webkit-text-size-adjust: 100%;
         }
-        
+
         /* What is does: Centers email on Android 4.4 */
         div[style*="margin: 16px 0"] {
             margin:0 !important;
         }
-        
+
         /* What it does: Stops Outlook from adding extra spacing to tables. */
         table,
         td {
             mso-table-lspace: 0pt !important;
             mso-table-rspace: 0pt !important;
         }
-                
+
         /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
         table {
             border-spacing: 0 !important;
@@ -63,31 +63,31 @@
             Margin: 0 auto !important;
         }
         table table table {
-            table-layout: auto; 
+            table-layout: auto;
         }
-        
+
         /* What it does: Uses a better rendering method when resizing images in IE. */
         img {
             -ms-interpolation-mode:bicubic;
         }
-        
+
         /* What it does: Overrides styles added when Yahoo's auto-senses a link. */
         .yshortcuts a {
             border-bottom: none !important;
         }
-        
+
         /* What it does: A work-around for iOS meddling in triggered links. */
         .mobile-link--footer a,
         a[x-apple-data-detectors] {
             color:inherit !important;
             text-decoration: underline !important;
         }
-      
+
     </style>
-    
+
     <!-- Progressive Enhancements -->
     <style type="text/css">
-        
+
         /* What it does: Hover styles for buttons */
         .button-td,
         .button-a {
@@ -132,7 +132,7 @@
             .stack-column-center {
                 text-align: center !important;
             }
-        
+
             /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
             .center-on-narrow {
                 text-align: left !important;
@@ -144,23 +144,23 @@
             table.center-on-narrow {
                 display: inline-block !important;
             }
-						
+
 						.imagePaddingMin {
 							padding: 10px !important;
 						}
-						
+
 						.paddingMin {
 							padding: 0 10px 0 10px  !important;
 						}
-						
+
 						.minPaddingChange {
 							padding: 10px 20px !important;
 						}
-                
+
         }
 
     </style>
-		
+
 		<style type="text/css">
 	    @media only screen and (max-width: 480px){
 	        .emailButton{

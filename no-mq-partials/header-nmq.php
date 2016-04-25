@@ -14,11 +14,11 @@ echo '
     </table>
   </td>
 </tr>
-  
+
   <!-- end logo -->
-  
+
   <!-- header text -->
-  
+
   <tr>
        <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center;">
            <p class="h1" style="font-size: 30px; margin:5px;">Pelt around the house.</p>
@@ -36,7 +36,7 @@ echo '
            shirt and sit on the laptop.
        </td>
    </tr>
-  
+
   <!-- end header text -->
 ';
 ?>

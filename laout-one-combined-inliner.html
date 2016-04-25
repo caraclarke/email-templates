@@ -1,0 +1,304 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0 !important;margin-bottom:0 !important;margin-right:auto !important;margin-left:auto !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;" >
+
+<head style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+    <meta charset="utf-8" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+    <!-- utf-8 works for most cases -->
+    <meta name="viewport" content="width=device-width" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+    <!-- Forcing initial-scale shouldn't be necessary -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+    <!-- Use the latest (edge) version of IE rendering engine -->
+    <title style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" ></title>
+    <!-- The title tag shows in email notifications, like Android 4.4. -->
+
+    <!-- Web Font / @font-face : BEGIN -->
+    <!-- NOTE: If web fonts are not required, lines 9 - 26 can be safely removed. -->
+
+    <!-- Desktop Outlook chokes on web font references and defaults to Times New Roman, so we force a safe fallback font. -->
+    <!--[if mso]>
+    <style style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+      * {
+        font-family: sans-serif !important !important;
+      }
+    </style>
+  <![endif]-->
+
+    <!-- All other clients get the webfont reference; some will render the font and others will silently fail to the fallbacks. More on that here: http://stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+    <!--[if !mso]><!-->
+    <!-- insert web font reference, eg: <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css' style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" > -->
+    <!--<![endif]-->
+    <!-- Web Font / @font-face : END -->
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+          .emailButton {
+              max-width: 600px !important;
+              width: 100% !important;
+          }
+          .emailButton a {
+              display: block !important;
+              font-size: 18px !important;
+          }
+      }
+
+      @media screen and (max-width: 600px) {
+          .email-container {
+              width: 100% !important;
+          }
+          /* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+          .fluid,
+          .fluid-centered {
+              max-width: 100% !important;
+              height: auto !important;
+              Margin-left: auto !important;
+              Margin-right: auto !important;
+          }
+          /* And center justify these ones. */
+          .fluid-centered {
+              Margin-left: auto !important;
+              Margin-right: auto !important;
+          }
+          /* What it does: Forces table cells into full-width rows. */
+          .stack-column,
+          .stack-column-center {
+              display: block !important;
+              width: 100% !important;
+              max-width: 100% !important;
+              direction: ltr !important;
+          }
+          /* And center justify these ones. */
+          .stack-column-center {
+              text-align: center !important;
+          }
+          /* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+          .center-on-narrow {
+              text-align: left !important;
+              display: block !important;
+              Margin-left: auto !important;
+              Margin-right: auto !important;
+              float: none !important;
+          }
+          table.center-on-narrow {
+              display: inline-block !important;
+          }
+          .paddingMin {
+              padding: 0 10px 0 10px !important;
+          }
+          .imagePaddingMin {
+              padding: 10px !important;
+          }
+          .widthChangeLanding {
+              width: 100% !important;
+              border-radius: 0px !important;
+          }
+          .textPadding {
+              padding: 10px 25px 0px 25px !important;
+              margin-bottom: 0px !important;
+              margin-top: 0px !important;
+          }
+          .paddingButtonMin {
+              padding-top: 20px !important;
+              padding-bottom: 20px !important;
+          }
+          .changeImgPadding {
+              padding: 0px !important;
+          }
+          .leftOnMin {
+              text-align: left !important;
+              padding-left: 10px !important;
+          }
+      }
+    </style>
+
+</head>
+<body bgcolor="#fff" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:0 !important;margin-bottom:0 !important;margin-right:auto !important;margin-left:auto !important;max-width:600px;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;" >
+
+<!-- Email Header : BEGIN -->
+<table align="center" width="100%" class="email-container" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:20px;padding-bottom:20px;padding-right:0;padding-left:0;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            <img  src="http://placekitten.com/200/50" width="200" height="50" alt="alt_text" border="0" class="mktEditable" id="edit_header_logo" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-right:60%;-ms-interpolation-mode:bicubic;" />
+        </td>
+    </tr>
+</table>
+
+<table align="center" width="100%" class="email-container" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:5px;padding-bottom:5px;padding-right:5px;padding-left:5px;text-align:center;font-family:sans-serif;font-size:30px;mso-height-rule:exactly;line-height:20px;color:#000;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            Pelt around the house.
+        </td>
+    </tr>
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td class="leftOnMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:25px;padding-bottom:25px;padding-right:5px;padding-left:5px;text-align:center;font-family:sans-serif;font-size:20px;mso-height-rule:exactly;line-height:20px;color:#000;border-bottom-width:3px;border-bottom-style:solid;border-bottom-color:blue;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            And up and down stairs chasing phantoms get video posted to internet for chasing red dot
+        </td>
+    </tr>
+
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td class="leftOnMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:25px;padding-bottom:25px;padding-right:5px;padding-left:5px;text-align:left;font-family:sans-serif;font-size:15px;mso-height-rule:exactly;line-height:20px;color:#000;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            All of a sudden cat goes crazy pee in human's bed until he cleans the litter box burrow under covers climb leg. Sun bathe cats go for world domination, the dog smells bad. Chase imaginary bugs chase the pig around the house for white cat sleeps on a black
+            shirt and sit on the laptop.
+        </td>
+    </tr>
+</table>
+    <table cellspacing="0" cellpadding="0" border="0" bgcolor="#ffffff" width="100%" class="email-container" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+
+<tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+    <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+        <img src="http://placekitten.com/600/300" width="600" height="" alt="alt_text" border="0" align="middle" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:100%;max-width:800px;-ms-interpolation-mode:bicubic;" />
+    </td>
+</tr>
+<!-- Hero Image, Flush : END -->
+
+<!-- 1 Column Text : BEGIN -->
+<tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;background-color:#000;" >
+    <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:25px;padding-bottom:0px;padding-right:25px;padding-left:25px;text-align:left;font-family:sans-serif;font-size:25px;mso-height-rule:exactly;line-height:25px;color:#fff;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+        Lay on arms while you're using the keyboard.
+    </td>
+</tr>
+<tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;background-color:#000;" >
+    <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:0px;padding-right:25px;padding-left:25px;text-align:left;font-family:sans-serif;font-size:20px;mso-height-rule:exactly;line-height:20px;color:#fff;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+        I'm getting hungry
+    </td>
+</tr>
+<tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;background-color:#000;" >
+    <td class="changeImgPadding" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:left;font-family:sans-serif;font-size:15px;mso-height-rule:exactly;line-height:20px;color:#fff;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;padding-top:10px;padding-bottom:25px;padding-right:25px;padding-left:25px;" >
+        <p class="textPadding" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-bottom:0px;" >Bathe private parts with tongue then lick owner's face sniff other cat's butt and hang jaw half open thereafter. Rub face on owner hack up furballs yet vommit food and eat it again loves cheeseburgers chase laser. Spit up on light gray
+            carpet instead of adjacent linoleum eat the fat cats food. Scamper. Stare at ceiling light meowzer! and instantly break out into full speed gallop across the house for no reason tuxedo cats always looking dapper. Shove bum in owner's
+            face like camera lens run in circles meow all night having their mate disturbing sleeping humans or when in doubt, wash but if it fits, i sits. Plan steps for world domination scamper.</p>
+        <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+        <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+        <!--  BEGIN BUTTON -->
+        <table border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;border-radius:3px;background-color:#6DC6DD;width:50%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+            <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                <td align="center" class="emailButtonContent paddingButtonMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                    <a href="..." target="_blank" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;text-decoration:none;" >Click Me</a>
+                </td>
+            </tr>
+        </table>
+        <!-- END BUTTON -->
+    </td>
+</tr>
+
+<tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+    <td align="center" valign="top" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:0px;padding-right:0px;padding-left:0px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+        <table cellspacing="0" cellpadding="0" border="0" width="100%" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+            <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                <!-- Column : BEGIN -->
+                <td width="33%" class="stack-column-center" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                    <table cellspacing="0" cellpadding="0" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td class="imagePaddingMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:0px;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <img src="http://placekitten.com/170/" width="100%" height="170" alt="alt_text" border="0" class="fluid" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-ms-interpolation-mode:bicubic;" />
+                            </td>
+                        </tr>
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td  class="center-on-narrow paddingMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-serif;font-size:15px;mso-height-rule:exactly;line-height:20px;color:#000;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:0px;text-align:left;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <h3 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:5px;margin-bottom:5px;margin-right:5px;margin-left:0px;" >HEader</h3> Lay on arms while you're using the keyboard throwup on your pillow, yet knock over christmas tree. Howl uncontrollably for no reason hate dog then cats take over the world if it smells like fish eat as much as
+                                you wish.
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <!--  BEGIN BUTTON -->
+                                <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;border-radius:3px;background-color:#6DC6DD;width:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                                    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                                        <td align="center" class="emailButtonContent" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                            <a href="..." target="_blank" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;text-decoration:none;" >Click Me</a>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- END BUTTON -->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!-- Column : END -->
+                <!-- Column : BEGIN -->
+                <td width="33%" class="stack-column-center" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                    <table cellspacing="0" cellpadding="0" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <img src="http://placekitten.com/170/" width="100%" height="170" alt="alt_text" border="0" class="fluid" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-ms-interpolation-mode:bicubic;" />
+                            </td>
+                        </tr>
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td  class="center-on-narrow paddingMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-serif;font-size:15px;mso-height-rule:exactly;line-height:20px;color:#000;padding-top:10px;padding-bottom:10px;padding-right:0px;padding-left:10px;text-align:left;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <h3 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:5px;margin-bottom:5px;margin-right:5px;margin-left:0px;" >HEader</h3> Lay on arms while you're using the keyboard throwup on your pillow, yet knock over christmas tree. Howl uncontrollably for no reason hate dog then cats take over the world if it smells like fish eat as much as
+                                you wish.
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <!--  BEGIN BUTTON -->
+                                <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;border-radius:3px;background-color:#6DC6DD;width:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                                    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                                        <td align="center" class="emailButtonContent" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                            <a href="..." target="_blank" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;text-decoration:none;" >Click Me</a>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- END BUTTON -->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!-- Column : END -->
+                <!-- Column : BEGIN -->
+                <td width="33%" class="stack-column-center" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                    <table cellspacing="0" cellpadding="0" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td class="imagePaddingMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:0px;padding-left:10px;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <img src="http://placekitten.com/170/" width="100%" height="170" alt="alt_text" border="0" class="fluid" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-ms-interpolation-mode:bicubic;" />
+                            </td>
+                        </tr>
+                        <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                            <td  class="center-on-narrow paddingMin" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-family:sans-serif;font-size:15px;mso-height-rule:exactly;line-height:20px;color:#000;padding-top:10px;padding-bottom:10px;padding-right:0px;padding-left:10px;text-align:left;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                <h3 style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;margin-top:5px;margin-bottom:5px;margin-right:5px;margin-left:0px;" >HEader</h3> Lay on arms while you're using the keyboard throwup on your pillow, yet knock over christmas tree. Howl uncontrollably for no reason hate dog then cats take over the world if it smells like fish eat as much as
+                                you wish.
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+                                <!--  BEGIN BUTTON -->
+                                <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;border-radius:3px;background-color:#6DC6DD;width:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;Margin:0 auto !important;table-layout:fixed !important;" >
+                                    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+                                        <td align="center" class="emailButtonContent" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+                                            <a href="..." target="_blank" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#FFFFFF;font-family:Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;text-decoration:none;" >Click Me</a>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- END BUTTON -->
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <!-- Column : END -->
+            </tr>
+        </table>
+    </td>
+</tr>    </table>
+		<hr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" ></hr>
+
+<table align="center" width="100%" class="email-container" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;table-layout:fixed !important;Margin:0 auto !important;" >
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:20px;padding-bottom:10px;padding-right:0px;padding-left:0px;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            <img src="http://placekitten.com/200/50" width="200" height="50" alt="alt_text" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-ms-interpolation-mode:bicubic;" />
+        </td>
+    </tr>
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;width:100%;font-size:12px;font-family:sans-serif;mso-height-rule:exactly;line-height:18px;text-align:center;color:#000;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            <span class="mobile-link--footer" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" ><a href="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:inherit !important;text-decoration:underline !important;" >Edit your email settings</a></span> /
+            <a href="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#000;text-decoration:underline;" >unsubscribe</a>
+            <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+            <span class="mobile-link--footer" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >20 Park Plaza, Boston, MA 02116</span>
+            <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" /> &#169; Copyright 2016 Codiscope. All Rights Reserved.
+            <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" />
+            <span class="mobile-link--footer" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" ><a href="" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:inherit !important;text-decoration:underline !important;" >Privary Policy</a></span>
+        </td>
+    </tr>
+    <tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;" >
+        <td style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;text-align:center;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;" >
+            <img  src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;-ms-interpolation-mode:bicubic;" />
+            <img  src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;-ms-interpolation-mode:bicubic;" />
+            <img  src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;-ms-interpolation-mode:bicubic;" />
+            <img  src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;-ms-interpolation-mode:bicubic;" />
+        </td>
+    </tr>
+</table>
+  </body>
+</html>

@@ -1,4 +1,4 @@
-<?php 
+<?php
 echo '
 <tr>
   <td class="three-column" style="padding-right:0;padding-left:0;text-align:left;font-size:0;padding-top:10px;padding-bottom:10px;" >
