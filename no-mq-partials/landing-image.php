@@ -18,7 +18,7 @@ echo '
           <p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p>
           <p style="Margin:0;font-size:14px;Margin-bottom:10px;" >Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
           <!--  BEGIN BUTTON -->
-          <table border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:3px; background-color:#6DC6DD; width:60%;">
+          <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:3px; background-color:#6DC6DD; width:60%;">
               <tr>
                   <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
                       <a href="..." target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
