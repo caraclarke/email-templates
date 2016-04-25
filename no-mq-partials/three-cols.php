@@ -19,9 +19,9 @@ echo '
                     </tr>
                     <tr>
                       <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
-                          Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.
+                        <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
                           <!--  BEGIN BUTTON -->
-                          <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; margin-top:7px; background-color:#6DC6DD; width:100%;">
+                          <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
                               <tr>
                                   <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
                                       <a href="..." target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
@@ -51,9 +51,9 @@ echo '
                             </tr>
                             <tr>
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
-                                    Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.
+                                  <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
                                     <!--  BEGIN BUTTON -->
-                                    <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; margin-top:7px; background-color:#6DC6DD; width:100%;">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
                                         <tr>
                                             <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
                                                 <a href="..." target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
@@ -83,9 +83,9 @@ echo '
                             </tr>
                             <tr>
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
-                                    Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.
+                                  <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
                                     <!--  BEGIN BUTTON -->
-                                    <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; margin-top:7px; background-color:#6DC6DD; width:100%;">
+                                    <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
                                         <tr>
                                             <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
                                                 <a href="..." target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
