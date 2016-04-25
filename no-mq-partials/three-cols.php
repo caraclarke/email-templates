@@ -1,7 +1,7 @@
 <?php 
 echo '
 <tr>
-  <td class="three-column" style="padding-right:0;padding-left:0;text-align:center;font-size:0;padding-top:10px;padding-bottom:10px;" >
+  <td class="three-column" style="padding-right:0;padding-left:0;text-align:left;font-size:0;padding-top:10px;padding-bottom:10px;" >
           <!--[if (gte mso 9)|(IE)]>
           <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
           <tr>
@@ -11,7 +11,7 @@ echo '
             <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
                 <tr>
                 <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
-                  <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:center;" >
+                  <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                     <tr>
                       <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
                           <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
@@ -34,7 +34,7 @@ echo '
             <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
-                        <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:center;" >
+                        <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
                                     <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
@@ -57,7 +57,7 @@ echo '
             <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
-                        <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:center;" >
+                        <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
                                     <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />

@@ -9,13 +9,13 @@ echo '
     </tr>
 
     <tr>
-        <td style="padding: 5px; text-align: center; font-family: sans-serif; font-size: 30px; mso-height-rule: exactly; line-height: 20px; color: #000;">
-            Pelt around the house.
+        <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center;">
+            <p class="h1" style="font-size: 30px; margin:5px;">Pelt around the house.</p>
         </td>
     </tr>
     <tr>
-        <td class="leftOnMin" style="padding: 25px 5px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #000; border-bottom: 3px solid blue">
-            And up and down stairs chasing phantoms get video posted to internet for chasing red dot
+        <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center; border-bottom: 2px solid blue;">
+            <p class="h2" style="font-size: 18px; Margin: 5px;">And up and down stairs chasing phantoms get video posted to internet for chasing red dot</p>
         </td>
     </tr>
 
