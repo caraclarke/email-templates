@@ -82,7 +82,6 @@
               <?php include 'header.php';?>
               <?php include 'landing-image.php';?>
               <?php include 'three-cols.php';?>
-          		<hr />
               <?php include 'footer.php';?>
             </table>
           </div>
