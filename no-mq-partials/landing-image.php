@@ -14,9 +14,9 @@ echo '
     <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#fff;" >
       <tr>
         <td class="inner contents changeMinWidth" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-          <p class="h1" style="font-size: 21px; font-weight: bold; Margin-bottom: 10px; padding:3px;" >Lorem ipsum dolor sit amet</p>
-          <p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 6px; padding:3px;">Lorem sub header</p>
-          <p style="Margin:0;font-size:14px;Margin-bottom:7px; padding:3px;" >Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
+          <p class="h1" style="font-size: 21px; font-weight: bold; Margin:3px; padding:3px;">Lorem ipsum dolor sit amet</p>
+          <p class="h2" style="font-size: 18px; font-weight: bold; Margin:3px; padding:3px; margin-top:3px;">Lorem sub header</p>
+          <p style="Margin:3px;font-size:14px;Margin-bottom:7px; padding:3px;" >Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
           <!--  BEGIN BUTTON -->
           <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:0px; background-color:#6DC6DD; width:60%;">
               <tr>
