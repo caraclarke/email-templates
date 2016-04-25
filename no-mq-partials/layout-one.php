@@ -18,6 +18,10 @@
           display: block !important;
           font-size: 18px !important;
       }
+      
+      .changeMinWidth {
+        padding: 10px 0px 0px 0px !important;
+      }
     }
   
     @media screen and (max-width: 400px) {
