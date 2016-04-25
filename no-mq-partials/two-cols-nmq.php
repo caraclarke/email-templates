@@ -11,7 +11,7 @@ echo '
                   <div class="column" style="width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
                       <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
                           <tr>
-                              <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
+                              <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;" >
                                   <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                                       <tr>
                                           <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
@@ -43,7 +43,7 @@ echo '
                   <div class="column" style="width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
                       <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
                           <tr>
-                              <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
+                              <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;" >
                                   <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                                       <tr>
                                           <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
