@@ -5,7 +5,7 @@ echo '
     <table cellspacing="0" cellpadding="0" border="0" width="100%">
       <tr>
         <!-- Column : BEGIN -->
-        <td class="stack-column-center">
+        <td class="stack-column-center" style="width:40%;">
           <table cellspacing="0" cellpadding="0" border="0">
             <tr>
               <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0px 10px 10px 10px; text-align: left;" class="center-on-narrow">
@@ -43,10 +43,10 @@ echo '
         <!-- Column : END -->
         <!-- Column : BEGIN -->
         <td class="stack-column-center">
-          <table cellspacing="0" cellpadding="0" border="0">
+          <table cellspacing="0" cellpadding="0" border="0" style="width:60%; margin: 0px 0px 0px 5px !important;">
             <tr>
               <td style="padding: 10px; text-align: center">
-                <img src="http://placekitten.com/290/475" width="290" height="475" alt="alt_text" border="0" class="fluid" />
+                <img src="http://placekitten.com/340/510" width="340" height="510" alt="alt_text" border="0" class="fluid" />
               </td>
             </tr>
           </table>
