@@ -18,10 +18,10 @@ echo '
 </tr>
 <tr>
     <td style="text-align:center;">
-        <img style="padding:10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
-        <img style="padding:10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
-        <img style="padding:10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
-        <img style="padding:10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
+        <img style="Margin: 10px 5px 10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
+        <img style="Margin: 10px 5px 10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
+        <img style="Margin: 10px 5px 10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
+        <img style="Margin: 10px 5px 10px 5px;" src="http://placekitten.com/32/32" width="32" height="32" alt="alt_text" border="0" />
     </td>
 </tr>
 ';
