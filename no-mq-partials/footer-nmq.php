@@ -1,7 +1,7 @@
 <?php 
 echo '
 <tr>
-    <td style="padding: 20px 0px 10px 0px; text-align: center">
+    <td style="padding: 20px 0px 10px 0px; text-align: center; border-top: 1px solid black;">
         <img src="http://placekitten.com/200/50" width="200" height="50" alt="alt_text" border="0" />
     </td>
 </tr>
