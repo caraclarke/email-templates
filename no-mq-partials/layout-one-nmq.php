@@ -10,63 +10,63 @@
   <style type="text/css">
 
   @media only screen and (max-width: 480px) {
-      .emailButton {
-          max-width: 600px !important;
-          width: 100% !important;
-      }
-      .emailButton a {
-          display: block !important;
-          font-size: 18px !important;
-      }
-
-      .changeMinWidth {
-        padding: 10px 0px 0px 0px !important;
-      }
+    .emailButton {
+      max-width: 600px !important;
+      width: 100% !important;
     }
+    .emailButton a {
+      display: block !important;
+      font-size: 18px !important;
+    }
+
+    .changeMinWidth {
+      padding: 10px 0px 0px 0px !important;
+    }
+  }
 
     @media screen and (max-width: 400px) {
-    .two-column .column,
-    .three-column .column {
-      max-width: 100% !important;
-    }
-    .two-column img {
-      max-width: 100% !important;
-    }
-    .three-column img {
-      max-width: 50% !important;
-    }
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 50% !important;
+      }
     }
 
     @media screen and (min-width: 401px) and (max-width: 620px) {
-    .three-column .column {
-      max-width: 33% !important;
-    }
-    .two-column .column {
-      max-width: 50% !important;
-    }
+      .three-column .column {
+        max-width: 33% !important;
+      }
+      .two-column .column {
+        max-width: 50% !important;
+      }
     }
 
       @media screen and (max-width: 400px) {
-      .two-column .column,
+        .two-column .column,
         .three-column .column {
-            max-width: 100% !important;
+          max-width: 100% !important;
         }
         .two-column img {
-            max-width: 100% !important;
+          max-width: 100% !important;
         }
         .three-column img {
-            max-width: 50% !important;
+          max-width: 50% !important;
         }
       }
 
       @media screen and (min-width: 401px) and (max-width: 620px) {
         .three-column .column {
-                max-width: 33% !important;
-            }
-            .two-column .column {
-                max-width: 50% !important;
-            }
+          max-width: 33% !important;
         }
+        .two-column .column {
+          max-width: 50% !important;
+        }
+      }
   </style>
   <!--[if (gte mso 9)|(IE)]>
   <style type="text/css">
