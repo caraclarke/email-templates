@@ -19,6 +19,7 @@ echo '
                     </tr>
                     <tr>
                       <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
+                        <p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p>
                         <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
 
                           <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
@@ -51,6 +52,7 @@ echo '
                             </tr>
                             <tr>
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
+                                  <p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p>
                                   <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
 
                                     <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
@@ -83,6 +85,7 @@ echo '
                             </tr>
                             <tr>
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
+                                  <p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p>
                                   <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
 
                                     <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; background-color:#6DC6DD; width:100%;">
