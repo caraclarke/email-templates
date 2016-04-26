@@ -2,7 +2,7 @@
 echo '
   <tr>
     <td class="full-width-image" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-      <img align="absbottom" src="images/meeting-at-table.jpg" height="auto" width="100%" alt="alt_text" style="max-width:600px;" />
+      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/meeting-at-table.jpg" height="auto" width="100%" alt="alt_text" style="max-width:600px;" />
     </td>
   </tr>
 
