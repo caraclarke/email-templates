@@ -15,7 +15,7 @@ echo '
           <p class="h2" style="font-size: 18px; font-weight: bold; Margin:3px; padding:3px; margin-top:3px;">Lorem sub header</p>
           <p style="Margin:3px;Margin-bottom:7px; padding:3px;" >Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
 
-            <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButton widthChangeLanding" style="border-radius:0px; background-color:#6DC6DD; width:60%;">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" class="emailButtonSplash widthChangeLanding" style="border-radius:0px; background-color:#6DC6DD; width:60%;">
                 <tr>
                     <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
                         <a href="#" target="_blank" style="color:#FFFFFF; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>

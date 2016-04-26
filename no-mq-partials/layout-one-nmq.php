@@ -20,7 +20,7 @@
     @media only screen and (max-width: 480px) {
       .emailButton {
         max-width: 600px !important;
-        width: 100% !important;
+        width: 95% !important;
       }
       .emailButton a {
         display: block !important;
@@ -29,6 +29,11 @@
 
       .changeMinWidth {
         padding: 10px 0px 0px 0px !important;
+      }
+
+      .emailButtonSlpash {
+        max-width: 600px !important;
+        width: 100% !important;
       }
     }
 
