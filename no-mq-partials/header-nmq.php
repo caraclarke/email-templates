@@ -5,7 +5,7 @@ echo '
       <table align="left" width="100%" style="border-spacing:0; color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-            <img align="absbottom" src="images/color-logo.svg" width="200" alt="" style="border-width:0;" />
+            <img align="absbottom" src="images/color-logo.svg" height="auto" width="100%" alt="" style="border-width:0;max-width:200px;" />
           </td>
         </tr>
       </table>
@@ -18,13 +18,13 @@ echo '
      </td>
    </tr>
    <tr>
-     <td style="Padding-top:3px;Padding-bottom:10px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
+     <td style="Padding-top:3px;Padding-bottom:10px;Padding-right:3px;Padding-left:3px;width:100%;text-align:left;">
         <p class="h2" style="font-size: 18px; line-height:21px; Margin: 5px;">And up and down stairs chasing things.And up and down stairs chasing things.And up and down stairs chasing things.And up and down.</p>
      </td>
    </tr>
    <tr>
     <td>
-      <img align="absbottom" src="images/header-divider.png" width="600" alt="alt_text" />
+      <img align="absbottom" src="images/header-divider.png" height="auto" width="100%" alt="alt_text" style="max-width:600px;" />
     </td>
    </tr>
 

@@ -2,7 +2,7 @@
 echo '
   <tr>
     <td style="padding: 20px 0px 10px 0px; text-align: center; border-top: 1px solid black;">
-      <img align="absbottom" src="images/color-logo.svg" width="200" height="50" alt="alt_text" border="0" />
+      <img align="absbottom" src="images/color-logo.svg" height="auto" width="100%" alt="" style="border-width:0;max-width:200px;" />
     </td>
   </tr>
   <tr>
@@ -19,16 +19,16 @@ echo '
   <tr>
     <td style="text-align:center;">
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="images/email.svg" width="32" height="32" alt="alt_text" border="0" />
+        <img align="absbottom" src="images/email.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="images/facebook.svg" width="32" height="32" alt="alt_text" border="0" />
+        <img align="absbottom" src="images/facebook.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="images/twitter.svg" width="32" height="32" alt="alt_text" border="0" />
+        <img align="absbottom" src="images/twitter.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="images/linkedin.svg" width="32" height="32" alt="alt_text" border="0" />
+        <img align="absbottom" src="images/linkedin.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
       </span>
     </td>
   </tr>
