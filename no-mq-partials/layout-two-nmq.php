@@ -95,7 +95,7 @@
             <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
             <![endif]-->
             <table class="outer" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 auto;width:100%;max-width:600px;">
-              <?php include 'header-nmq.php'; ?>
+              <?php include 'header-two-nmq.php'; ?>
               <?php include 'stacked-col-img-nmq.php';?>
               <?php include 'two-cols-nmq.php';?>
               <?php include 'full-width-text-nmq.php';?>

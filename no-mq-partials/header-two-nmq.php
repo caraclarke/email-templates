@@ -1,7 +1,7 @@
 <?php
 echo '
   <tr>
-    <td class="one-column" style="Padding-top:0;Padding-bottom:0;Padding-right:0;padding-left:0;" >
+    <td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
       <table align="left" width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
@@ -13,13 +13,8 @@ echo '
   </tr>
 
   <tr>
-     <td style="Padding-top:3px;Padding-bottom:3px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
-        <p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase;">Pelt around the house.</p>
-     </td>
-   </tr>
-   <tr>
      <td style="Padding-top:3px;Padding-bottom:10px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
-        <p class="h2" style="font-size: 18px; line-height:21px; Margin: 5px;">And up and down stairs chasing things.And up and down stairs chasing things.And up and down stairs chasing things.And up and down.</p>
+        <p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase;">Pelt around the house.</p>
      </td>
    </tr>
    <tr>
