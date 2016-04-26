@@ -8,6 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title></title>
   <style type="text/css">
+    .ReadMsgBody {width: 100%;}
+    .ExternalClass {width: 100%;}
+
+
+    span.yshortcuts { color:#000; background-color:none; border:none;}
+    span.yshortcuts:hover,
+    span.yshortcuts:active,
+    span.yshortcuts:focus {color:#000; background-color:none; border:none;}
 
     @media only screen and (max-width: 480px) {
       .emailButton {
@@ -75,20 +83,20 @@
 <![endif]-->
 </head>
 <body style="margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;background-color:#ffffff;" >
-    <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
-        <div class="webkit" style="max-width:600px;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
-            <!--[if (gte mso 9)|(IE)]>
-            <table width="600" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
-            <tr>
-            <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-            <![endif]-->
-            <table class="outer" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 auto;width:100%;max-width:600px;">
-              <?php include 'header-nmq.php';?>
-              <?php include 'landing-image-nmq.php';?>
-              <?php include 'three-cols-nmq.php';?>
-              <?php include 'footer-nmq.php';?>
-            </table>
-          </div>
-        </center>
+  <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
+    <div class="webkit" style="max-width:600px;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
+      <tr>
+      <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+      <![endif]-->
+      <table class="outer" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 auto;width:100%;max-width:600px;">
+        <?php include 'header-nmq.php';?>
+        <?php include 'landing-image-nmq.php';?>
+        <?php include 'three-cols-nmq.php';?>
+        <?php include 'footer-nmq.php';?>
+      </table>
+    </div>
+  </center>
 </body>
 </html>

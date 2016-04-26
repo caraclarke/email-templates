@@ -14,7 +14,7 @@ echo '
               <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                 <tr>
                   <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                    <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
+                    <img align="absbottom" src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
                   </td>
                 </tr>
                 <tr>
@@ -46,7 +46,7 @@ echo '
             <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
               <tr>
                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                  <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
+                  <img align="absbottom" src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
                 </td>
               </tr>
               <tr>
@@ -78,7 +78,7 @@ echo '
           <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
             <tr>
               <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                <img src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
+                <img align="absbottom" src="http://placekitten.com/180/" width="180" alt="" style="border-width:0;width:100%;max-width:180px;height:auto;" />
               </td>
             </tr>
             <tr>

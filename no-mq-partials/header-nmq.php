@@ -5,7 +5,7 @@ echo '
       <table align="left" width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-            <img src="http://placekitten.com/200/50" width="200" alt="" style="border-width:0;" />
+            <img align="absbottom" src="http://placekitten.com/200/50" width="200" alt="" style="border-width:0;" />
           </td>
         </tr>
       </table>

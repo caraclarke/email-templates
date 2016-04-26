@@ -8,6 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title></title>
   <style type="text/css">
+    .ReadMsgBody {width: 100%;}
+    .ExternalClass {width: 100%;}
+
+
+    span.yshortcuts { color:#000; background-color:none; border:none;}
+    span.yshortcuts:hover,
+    span.yshortcuts:active,
+    span.yshortcuts:focus {color:#000; background-color:none; border:none;}
 
     @media only screen and (max-width: 480px) {
       .emailButton {
