@@ -101,11 +101,11 @@
     <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
         <div class="webkit" style="max-width:600px;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
             <!--[if (gte mso 9)|(IE)]>
-            <table width="600" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
+            <table width="600" align="center" style="border-spacing:0; color:#333333;" >
             <tr>
             <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
             <![endif]-->
-            <table class="outer" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 auto;width:100%;max-width:600px;">
+            <table class="outer" align="center" style="border-spacing:0; color:#333333;Margin:0 auto;width:100%;max-width:600px;">
               <?php include 'header-two-nmq.php'; ?>
               <?php include 'stacked-col-img-nmq.php';?>
               <?php include 'two-cols-nmq.php';?>
