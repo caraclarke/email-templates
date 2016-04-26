@@ -1,6 +1,6 @@
 <?php
 echo '
-<tr>
+  <tr>
   <td class="three-column" style="padding-right:0;padding-left:0;text-align:left;font-size:0;padding-top:10px;padding-bottom:10px;" >
           <!--[if (gte mso 9)|(IE)]>
           <table width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
