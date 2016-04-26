@@ -1,23 +1,16 @@
 <?php
 echo '
-
-<!-- start logo -->
-
-<tr>
-<td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-    <table align="left" width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
-      <tr>
-        <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-          <img src="http://placekitten.com/200/50" width="200" alt="" style="border-width:0;" />
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
-
-  <!-- end logo -->
-
-  <!-- header text -->
+  <tr>
+    <td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+      <table align="left" width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
+        <tr>
+          <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
+            <img src="http://placekitten.com/200/50" width="200" alt="" style="border-width:0;" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
   <tr>
        <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center;">
@@ -36,7 +29,5 @@ echo '
            shirt and sit on the laptop.
        </td>
    </tr>
-
-  <!-- end header text -->
 ';
 ?>
