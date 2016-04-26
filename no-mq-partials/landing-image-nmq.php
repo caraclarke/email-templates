@@ -2,7 +2,7 @@
 echo '
   <tr>
     <td class="full-width-image" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-      <img align="absbottom" src="http://placekitten.com/600/300" width="600" alt="" style="border-width:0;width:100%;max-width:600px;height:auto;" />
+      <img align="absbottom" src="images/meeting-at-table.jpg" width="600" alt="" style="border-width:0;width:100%;max-width:600px;height:auto;" />
     </td>
   </tr>
 

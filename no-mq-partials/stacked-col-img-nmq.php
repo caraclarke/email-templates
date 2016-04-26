@@ -57,7 +57,7 @@ echo '
                 <table class="contents" style="border-spacing:0;font-family:sans-serif;color:#333333;width:100%;font-size:14px;text-align:left;" >
                   <tr>
                       <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                          <img align="absbottom" src="http://placekitten.com/360/445" width="360" alt="" style="border-width:0;width:100%;max-width:400px;height:auto;" />
+                          <img align="absbottom" src="images/typ-placeholder.png" width="400" height="600" alt="" style="border-width:0;width:100%;max-width:400px;height:auto;" />
                       </td>
                   </tr>
                 </table>

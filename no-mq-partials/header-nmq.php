@@ -5,7 +5,7 @@ echo '
       <table align="left" width="100%" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-            <img align="absbottom" src="http://placekitten.com/200/50" width="200" alt="" style="border-width:0;" />
+            <img align="absbottom" src="images/color-logo.svg" width="200" alt="" style="border-width:0;" />
           </td>
         </tr>
       </table>
@@ -14,13 +14,18 @@ echo '
 
   <tr>
      <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center;">
-        <p class="h1" style="font-size: 30px; margin:5px;">Pelt around the house.</p>
+        <p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase;">Pelt around the house.</p>
      </td>
    </tr>
    <tr>
-     <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center; border-bottom: 2px solid blue;">
-        <p class="h2" style="font-size: 18px; Margin: 5px;">And up and down stairs chasing things.</p>
+     <td style="padding-top:3px;padding-bottom:3px;padding-right:3px;padding-left:3px;width:100%;text-align:center;">
+        <p class="h2" style="font-size: 18px; line-height:21px; Margin: 5px;">And up and down stairs chasing things.And up and down stairs chasing things.And up and down stairs chasing things.And up and down.</p>
      </td>
+   </tr>
+   <tr>
+    <td>
+      <img align="absbottom" src="images/header-divider.png" width="600" alt="alt_text" />
+    </td>
    </tr>
 
    <tr>
