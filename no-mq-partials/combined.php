@@ -75,6 +75,10 @@
         max-width: 50% !important;
       }
     }
+
+    @media only screen and (max-width: 480px){
+      .bodyContent{font-size:16px !important;}
+    }
   </style>
   <!--[if (gte mso 9)|(IE)]>
   <style type="text/css">
@@ -82,7 +86,7 @@
 </style>
 <![endif]-->
 </head>
-<body style="margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;background-color:#ffffff;" >
+<body class="bodyContent" style="font-size:14px!important;line-height:125%!important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;background-color:#ffffff;" >
   <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
     <div class="webkit" style="max-width:600px;margin-top:0;margin-bottom:0;margin-right:auto;margin-left:auto;" >
       <!--[if (gte mso 9)|(IE)]>
