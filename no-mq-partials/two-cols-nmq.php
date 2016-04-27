@@ -14,7 +14,7 @@ echo '
                         <table class="contents" style="border-spacing:0; color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                                    <img src="http://go.codiscope.com/rs/442-XVH-714/images/robot.jpg" width="280" height="auto" alt="" style="border-width:0;height:auto;width:100%;max-width:280px;" />
+                                    <img src="http://go.codiscope.com/rs/442-XVH-714/images/robot.jpg" width="300" height="auto" alt="" style="border-width:0;height:auto;width:100%;max-width:300px;" />
                                 </td>
                             </tr>
                             <tr>
@@ -46,7 +46,7 @@ echo '
                         <table class="contents" style="border-spacing:0; color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                                    <img src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="280" height="auto" alt="" style="height:auto;width:100%;border-width:0;max-width:280px;" />
+                                    <img src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="300" height="auto" alt="" style="height:auto;width:100%;border-width:0;max-width:300px;" />
                                 </td>
                             </tr>
                             <tr>
