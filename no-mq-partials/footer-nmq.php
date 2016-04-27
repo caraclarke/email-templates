@@ -2,7 +2,7 @@
 echo '
   <tr>
     <td style="padding: 20px 0px 10px 0px; text-align: center; border-top: 1px solid black;">
-      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="100%" alt="" style="border-width:0;max-width:200px;" />
+      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="200" alt="" style="border-width:0;height:auto;width:100%;max-width:200px;" />
     </td>
   </tr>
   <tr>
@@ -19,16 +19,16 @@ echo '
   <tr>
     <td style="text-align:center;">
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/email.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
+        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/email.svg" width="32" height="auto" alt="alt_text" border="0" style="height:auto;width:32px;max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/facebook.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
+        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/facebook.svg" width="32" height="auto" alt="alt_text" border="0" style="height:auto;width:32px;max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/twitter.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
+        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/twitter.svg" width="32" height="auto" alt="alt_text" border="0" style="height:auto;width:32px;max-width:32px;" />
       </span>
       <span style="display:inline-block; Margin: 10px 5px 10px 5px;">
-        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/linkedin.svg" width="32" height="auto" alt="alt_text" border="0" style="max-width:32px;" />
+        <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/linkedin.svg" width="32" height="auto" alt="alt_text" border="0" style="height:auto;width:32px;max-width:32px;" />
       </span>
     </td>
   </tr>

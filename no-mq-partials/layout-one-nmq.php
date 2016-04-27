@@ -31,7 +31,7 @@
         padding: 10px 0px 0px 0px !important;
       }
 
-      .emailButtonSlpash {
+      .emailButtonSplash {
         max-width: 600px !important;
         width: 100% !important;
       }

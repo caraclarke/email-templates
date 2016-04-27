@@ -14,7 +14,7 @@ echo '
                   <table class="contents" style="border-spacing:0; color:#333333;width:100%;font-size:14px;text-align:left;" >
                     <tr>
                       <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                          <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="100%" height="auto" alt="" style="border-width:0;max-width:180px;" />
+                          <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="" style="border-width:0;width:100%;height:auto;max-width:200px;" />
                       </td>
                     </tr>
                     <tr>
@@ -46,7 +46,7 @@ echo '
                         <table class="contents" style="border-spacing:0; color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                                    <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="100%" height="auto" alt="" style="border-width:0;max-width:180px;" />
+                                    <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="" style="width:100%;height:auto;border-width:0;max-width:200px;" />
                                 </td>
                             </tr>
                             <tr>
@@ -78,7 +78,7 @@ echo '
                         <table class="contents" style="border-spacing:0; color:#333333;width:100%;font-size:14px;text-align:left;" >
                             <tr>
                                 <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
-                                    <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="100%" height="auto" alt="" style="border-width:0;max-width:180px;" />
+                                    <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="alt_text" style="border-width:0;width:100%;height:auto;max-width:200px;" />
                                 </td>
                             </tr>
                             <tr>

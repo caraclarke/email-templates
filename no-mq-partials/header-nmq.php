@@ -5,7 +5,7 @@ echo '
       <table align="left" width="100%" style="border-spacing:0; color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-            <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="100%" alt="" style="border-width:0;max-width:200px;" />
+            <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="200" alt="" style="border-width:0;width:100%;height:auto;max-width:200px;" />
           </td>
         </tr>
       </table>
@@ -24,7 +24,7 @@ echo '
    </tr>
    <tr>
     <td>
-      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="100%" alt="alt_text" style="max-width:600px;" />
+      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="600" alt="alt_text" style="width:100%;height:auto;max-width:600px;" />
     </td>
    </tr>
 

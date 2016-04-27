@@ -30,6 +30,11 @@
       .changeMinWidth {
         padding: 10px 0px 0px 0px !important;
       }
+
+      .emailButtonSplash {
+        max-width: 600px !important;
+        width: 100% !important;
+      }
     }
 
     @media screen and (max-width: 400px) {

@@ -1,11 +1,11 @@
 <?php
 echo '
   <tr>
-    <td class="one-column" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+    <td class="one-column" style="Padding-top:0;Padding-bottom:0;Padding-right:0;padding-left:0;" >
       <table align="left" width="100%" style="border-spacing:0; color:#333333;" >
         <tr>
           <td class="inner contents" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:100%;text-align:left;" >
-            <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="100%" alt="" style="border-width:0;max-width:200px;" />
+            <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" height="auto" width="200" alt="" style="border-width:0;width:100%;height:auto;max-width:200px;" />
           </td>
         </tr>
       </table>
@@ -13,13 +13,13 @@ echo '
   </tr>
 
   <tr>
-     <td style="Padding-top:3px;Padding-bottom:10px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
+     <td style="Padding-top:3px;Padding-bottom:3px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
         <p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase; line-height:33px;">Pelt around the house.</p>
      </td>
    </tr>
    <tr>
     <td>
-      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="100%" alt="alt_text" style="max-width:600px;" />
+      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="600" alt="alt_text" style="width:100%;height:auto;max-width:600px;" />
     </td>
    </tr>
 
