@@ -97,10 +97,11 @@
     }
   </style>
   <!--[if (gte mso 9)|(IE)]>
-  <style type="text/css">
-  table {border-collapse: collapse !important;}
-</style>
-<![endif]-->
+    <style type="text/css">
+    table {border-collapse: collapse !important;}
+    body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
+  </style>
+  <![endif]-->
 </head>
 <body class="bodyContent" style="font-family:open_sansregular,Arial,sans-serif; font-size:14px;line-height:125%;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;background-color:#ffffff;" >
   <center class="wrapper" style="width:100%;table-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;" >
