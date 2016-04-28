@@ -11,7 +11,6 @@
     .ReadMsgBody {width: 100%;}
     .ExternalClass {width: 100%;}
 
-
     span.yshortcuts { color:#000; background-color:none; border:none;}
     span.yshortcuts:hover,
     span.yshortcuts:active,
@@ -47,6 +46,10 @@
       }
       .three-column img {
         max-width: 50% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
       }
     }
 
