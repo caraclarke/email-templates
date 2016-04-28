@@ -1,9 +1,30 @@
 @import 'settings';
 @import 'foundation';
 
+@font-face {
+  font-family: open_sansregular;
+  src: url('opensans-regular-webfont.eot');
+  src: url('opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('opensans-regular-webfont.woff2') format('woff2'),
+  url('opensans-regular-webfont.woff') format('woff'),
+  url('opensans-regular-webfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family:open_sansregular,Arial,sans-serif!important;
+  font-size:14px;
+  line-height:125% !important;
+}
+
 .logo {
   width: 200px;
   height: auto;
+}
+
+.caps {
+  text-transform: uppercase;
 }
 
 .header-long {
@@ -19,6 +40,11 @@
   padding-bottom: 0px !important;
 }
 
+.three-col {
+  height:100%;
+  position:relative;
+}
+
 .white {
   background-color: #000;
   color: #fff;
@@ -26,11 +52,34 @@
   margin: 0px;
 }
 
-.three-col {
-  padding-top: 10px !important;
+.stuckBottom {
+  position:absolute;
+  bottom:0px;
+}
+
+.holder {
+  height:40px;
+  width:200px;
 }
 
 .footer-img {
   height: auto;
   width: 32px;
+}
+
+.underImg > table {
+  background-color: #000;
+}
+
+table.button.wideBtn {
+  width: 90% !important;
+}
+
+.sub-header {
+  padding-top: 5px;
+}
+
+table.button.landingBtn {
+  width: 90% !important;
+  margin: 10px auto !important;
 }
