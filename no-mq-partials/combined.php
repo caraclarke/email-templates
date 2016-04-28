@@ -11,6 +11,10 @@
     .ReadMsgBody {width: 100%;}
     .ExternalClass {width: 100%;}
 
+    .column {
+      height: 100% !important;
+      width: 100% !important;
+    }
 
     span.yshortcuts { color:#000; background-color:none; border:none;}
     span.yshortcuts:hover,
@@ -29,6 +33,11 @@
 
       .changeMinWidth {
         padding: 10px 0px 0px 0px !important;
+      }
+
+      .column {
+        height: auto !important;
+        width: auto !important;
       }
     }
 
