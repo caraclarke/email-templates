@@ -11,6 +11,10 @@
     .ReadMsgBody {width: 100%;}
     .ExternalClass {width: 100%;}
 
+    .column {
+      height: 100% !important;
+      width: 100% !important;
+    }
 
     span.yshortcuts { color:#000; background-color:none; border:none;}
     span.yshortcuts:hover,
@@ -20,7 +24,7 @@
     @media only screen and (max-width: 480px) {
       .emailButton {
         max-width: 600px !important;
-        width: 95% !important;
+        width: 100% !important;
       }
       .emailButton a {
         display: block !important;
@@ -34,6 +38,10 @@
       .emailButtonSplash {
         max-width: 600px !important;
         width: 100% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
       }
     }
 
