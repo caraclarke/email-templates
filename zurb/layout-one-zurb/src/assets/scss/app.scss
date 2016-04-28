@@ -6,8 +6,32 @@
   height: auto;
 }
 
-.header-one > h1 {
-  text-align: center;
+.header-long {
+  margin-bottom: 10px !important;
+}
+
+.land-img {
+  height: 400px;
+  width: 600px;
+}
+
+.land-img-hold {
+  padding-bottom: 0px !important;
+}
+
+// .landing-bg {
+//   background-color: #000;
+// }
+
+.white {
+  background-color: #000;
+  color: #fff;
+  padding: 3px 5px;
+  margin: 0px;
+}
+
+.three-col {
+  padding-top: 10px !important;
 }
 
 .footer-img {
