@@ -11,11 +11,6 @@
     .ReadMsgBody {width: 100%;}
     .ExternalClass {width: 100%;}
 
-    .column {
-      height: 100% !important;
-      width: 100% !important;
-    }
-
     span.yshortcuts { color:#000; background-color:none; border:none;}
     span.yshortcuts:hover,
     span.yshortcuts:active,
@@ -39,10 +34,6 @@
         max-width: 600px !important;
         width: 100% !important;
       }
-      .column {
-        height: auto !important;
-        width: auto !important;
-      }
     }
 
     @media screen and (max-width: 400px) {
@@ -55,6 +46,10 @@
       }
       .three-column img {
         max-width: 50% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
       }
     }
 

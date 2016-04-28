@@ -7,7 +7,7 @@ echo '
           <tr>
           <td width="200" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
           <![endif]-->
-          <div class="column" style="position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
+          <div class="column" style="height:100%;width:100%;position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
             <table width="100%" style="border-spacing:0; color:#333333;" >
                 <tr>
                 <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;" >
@@ -40,7 +40,7 @@ echo '
           <!--[if (gte mso 9)|(IE)]>
           </td><td width="200" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
           <![endif]-->
-          <div class="column" style="position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
+          <div class="column" style="height:100%;width:100%;position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
             <table width="100%" style="border-spacing:0; color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;" >
@@ -73,7 +73,7 @@ echo '
           <!--[if (gte mso 9)|(IE)]>
           </td><td width="200" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
           <![endif]-->
-          <div class="column" style="position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
+          <div class="column" style="height:100%;width:100%;position:relative;max-width:200px;display:inline-block;vertical-align:top;" >
             <table width="100%" style="border-spacing:0; color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:5px;padding-left:5px;" >

@@ -7,7 +7,7 @@ echo '
         <tr>
         <td width="50%" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
         <![endif]-->
-        <div class="column" style="position:relative;width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
+        <div class="column" style="height:100%;position:relative;width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
             <table width="100%" style="border-spacing:0; color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
@@ -41,7 +41,7 @@ echo '
         <!--[if (gte mso 9)|(IE)]>
         </td><td width="50%" valign="top" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
         <![endif]-->
-        <div class="column" style="position:relative;width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
+        <div class="column" style="height:100%;position:relative;width:100%;max-width:300px;display:inline-block;vertical-align:top;" >
             <table width="100%" style="border-spacing:0; color:#333333;" >
                 <tr>
                     <td class="inner" style="padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;" >
