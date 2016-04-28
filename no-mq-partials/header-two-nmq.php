@@ -14,7 +14,7 @@ echo '
 
   <tr>
      <td style="Padding-top:3px;Padding-bottom:3px;Padding-right:3px;Padding-left:3px;width:100%;text-align:center;">
-        <div class="mktEditable" id="test"><p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase; line-height:33px;">Pelt around the house.</p></div>
+        <p class="h1" style="font-size: 30px; margin:5px; text-transform:uppercase; line-height:33px;">Pelt around the house.</p>
      </td>
    </tr>
    <tr>
