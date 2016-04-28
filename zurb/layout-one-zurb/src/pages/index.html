@@ -1,75 +1,9 @@
 ---
 subject: Layout One Test
 ---
-<container class="header">
-  <row>
-    <columns class="header-one" small="12" large="12" style="border:1px solid red;">
-      <img class="logo" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" alt="logo">
-      <h1 class="text-center caps">hey thingie</h1>
-      <p>And up and down stairs chasing things.And up and down stairs chasing things.And up and down stairs chasing things.And up and down.</p>
-      <center>
-        <img class="header-long" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" alt="divider">
-      </center>
-      <p>All of a sudden cat goes crazy pee in human's bed until he cleans the litter box burrow under covers climb leg. Sun bathe cats go for world domination, the dog smells bad. Chase imaginary bugs chase the pig around the house for white cat sleeps on a black shirt and sit on the laptop.</p>
-    </columns>
-  </row>
-</container>
 <container>
-  <row>
-    <columns class="land-img-hold" small="12" large="12">
-      <img class="land-img" src="../assets/img/meeting-at-table.jpg" alt="landing image layout one">
-    </columns>
-  </row>
-  <row>
-    <columns small="12" large="12" class="underImg">
-        <h2 class="white">Lorem ipsum dolor sit amet</h2>
-        <h4 class="white">Lorem sub header</h4>
-        <p class="white">Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent laoreet malesuada cursus. Maecenas scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
-        <button href="zurb.com" class="expanded landingBtn">Expanded Button</button>
-    </columns>
-  </row>
-  <row>
-    <columns class="three-col" small="12" large="4">
-      <img src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="placeholder">
-      <p class="text-center sub-header">Lorem sub header</p>
-      <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
-      <spacer size="45"></spacer>
-      <button href="zurb.com" class="expanded wideBtn stuckBottom">Expanded Button</button>
-    </columns>
-    <columns class="three-col" small="12" large="4">
-      <img src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="placeholder">
-      <p class="text-center sub-header">Lorem sub header</p>
-      <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
-      <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat. Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
-      <spacer size="45"></spacer>
-        <button href="zurb.com" class="expanded wideBtn stuckBottom">Expanded Button</button>
-    </columns>
-    <columns class="three-col" small="12" large="4">
-      <img src="http://go.codiscope.com/rs/442-XVH-714/images/square-placeholder.png" width="200" height="auto" alt="placeholder">
-      <p class="text-center sub-header">Lorem sub header</p>
-      <p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p>
-      <spacer size="45"></spacer>
-        <button href="zurb.com" class="expanded wideBtn stuckBottom">Expanded Button</button>
-    </columns>
-  </row>
-  <row class="collapsed footer">
-    <columns>
-      <spacer size="16"></spacer>
-      <center>
-        <img class="logo" src="http://go.codiscope.com/rs/442-XVH-714/images/color-logo.svg" alt="logo" height="auto" width="200">
-      </center>
-      <p class="text-center"><a href="#">Edit your email settings</a> / <a href="#">Unsubscribe</a><br>
-        20 Park Plaza, Boston, MA 02116<br>
-        &#169; Copyright 2016 Codiscope. All Rights Reserved.<br>
-        <a href="#">Privacy Policy</a></p>
-      <center>
-        <menu>
-          <item><img class="footer-img" src="http://go.codiscope.com/rs/442-XVH-714/images/email.svg" alt="email-icon"></item>
-          <item><img class="footer-img" src="http://go.codiscope.com/rs/442-XVH-714/images/facebook.svg" alt="facebook-icon"></item>
-          <item><img class="footer-img" src="http://go.codiscope.com/rs/442-XVH-714/images/twitter.svg" alt="twitter-icon"></item>
-          <item><img class="footer-img" src="http://go.codiscope.com/rs/442-XVH-714/images/linkedin.svg" alt="linkedin-icon"></item>
-        </menu>
-      </center>
-    </columns>
-  </row>
+  {{>header}}
+  {{>landing-image}}
+  {{>three-col}}
+  {{>footer}}
 </container>
