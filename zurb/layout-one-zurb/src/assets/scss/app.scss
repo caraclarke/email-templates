@@ -1,2 +1,16 @@
 @import 'settings';
 @import 'foundation';
+
+.logo {
+  width: 200px;
+  height: auto;
+}
+
+.header-one > h1 {
+  text-align: center;
+}
+
+.footer-img {
+  height: auto;
+  width: 32px;
+}
