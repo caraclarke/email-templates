@@ -34,13 +34,9 @@
         max-width: 600px !important;
         width: 100% !important;
       }
-      .column {
-        height: auto !important;
-        width: auto !important;
-      }
     }
 
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 430px) {
       .two-column .column,
       .three-column .column {
         max-width: 100% !important;
@@ -49,7 +45,7 @@
         max-width: 100% !important;
       }
       .three-column img {
-        max-width: 50% !important;
+        max-width: 75% !important;
       }
       .column {
         height: auto !important;
@@ -57,16 +53,20 @@
       }
     }
 
-    @media screen and (min-width: 401px) and (max-width: 620px) {
+    @media screen and (min-width: 431px) and (max-width: 620px) {
       .three-column .column {
         max-width: 33% !important;
       }
       .two-column .column {
         max-width: 50% !important;
       }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
     }
 
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 430) {
       .two-column .column,
       .three-column .column {
         max-width: 100% !important;
@@ -79,7 +79,7 @@
       }
     }
 
-    @media screen and (min-width: 401px) and (max-width: 620px) {
+    @media screen and (min-width: 431px) and (max-width: 620px) {
       .three-column .column {
         max-width: 33% !important;
       }

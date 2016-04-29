@@ -19,7 +19,7 @@ echo '
    </tr>
    <tr>
     <td>
-      <img align="absbottom" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="600" alt="alt_text" style="width:100%;height:auto;max-width:600px;" />
+      <p style="text-align:center;"><img align="middle" src="http://go.codiscope.com/rs/442-XVH-714/images/header-divider.png" height="auto" width="600" alt="alt_text" style="width:100%;height:auto;max-width:600px;" /></p>
     </td>
    </tr>
 
