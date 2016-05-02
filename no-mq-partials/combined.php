@@ -131,6 +131,12 @@
         <?php include 'footer-nmq.php';?>
       </table>
     </div>
+
+    <!--[if (gte mso 9)|(IE)]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
   </center>
 </body>
 </html>
