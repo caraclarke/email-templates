@@ -17,6 +17,7 @@
     span.yshortcuts:focus {color:#000; background-color:none; border:none;}
 
     @media only screen and (max-width: 480px) {
+      .bodyContent{font-size:16px !important;}
       .emailButton {
         max-width: 600px !important;
         width: 100% !important;
@@ -33,6 +34,18 @@
       .emailButtonSplash {
         max-width: 600px !important;
         width: 100% !important;
+      }
+    }
+    @media screen and (min-width: 431px) and (max-width: 620px) {
+      .three-column .column {
+        max-width: 33% !important;
+      }
+      .two-column .column {
+        max-width: 50% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
       }
     }
 
@@ -53,44 +66,45 @@
       }
     }
 
-    @media screen and (min-width: 431px) and (max-width: 620px) {
-      .three-column .column {
-        max-width: 33% !important;
-      }
-      .two-column .column {
-        max-width: 50% !important;
-      }
-      .column {
-        height: auto !important;
-        width: auto !important;
-      }
-    }
+    /* #### Mobile Phones Portrait #### */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+  /* some CSS here */
+}
 
-    @media screen and (max-width: 430) {
-      .two-column .column,
-      .three-column .column {
-        max-width: 100% !important;
-      }
-      .two-column img {
-        max-width: 100% !important;
-      }
-      .three-column img {
-        max-width: 50% !important;
-      }
-    }
+/* #### Mobile Phones Landscape #### */
+@media screen and (max-device-width: 640px) and (orientation: landscape){
+  /* some CSS here */
+}
 
-    @media screen and (min-width: 431px) and (max-width: 620px) {
-      .three-column .column {
-        max-width: 33% !important;
-      }
-      .two-column .column {
-        max-width: 50% !important;
-      }
-    }
+/* #### Mobile Phones Portrait or Landscape #### */
+@media screen and (max-device-width: 640px){
+  /* some CSS here */
+}
 
-    @media only screen and (max-width: 480px){
-      .bodyContent{font-size:16px !important;}
-    }
+/* #### iPhone 4+ Portrait or Landscape #### */
+@media screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+  /* some CSS here */
+}
+
+/* #### iPhone 5 Portrait or Landscape #### */
+@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+  /* some CSS here */
+}
+
+/* #### iPhone 6 and 6 plus Portrait or Landscape #### */
+@media (min-device-height: 667px) and (min-device-width: 375px) and (-webkit-min-device-pixel-ratio: 3){
+  /* some CSS here */
+}
+
+/* #### Tablets Portrait or Landscape #### */
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+  /* some CSS here */
+}
+
+/* #### Desktops #### */
+@media screen and (min-width: 1024px){
+  /* some CSS here */
+}
 
     @font-face {
       font-family: open_sansregular;
