@@ -16,169 +16,161 @@
     span.yshortcuts:active,
     span.yshortcuts:focus {color:#000; background-color:none; border:none;}
 
-
-
     /* #### Mobile Phones Portrait #### */
-@media screen and (max-device-width: 480px) and (orientation: portrait){
-  /* some CSS here */
-  .bodyContent{font-size:16px !important;}
-  .emailButton {
-    max-width: 600px !important;
-    width: 100% !important;
-  }
-  .emailButton a {
-    display: block !important;
-    font-size: 18px !important;
-  }
+    @media screen and (max-device-width: 480px) and (orientation: portrait){
+      .bodyContent{font-size:16px !important;}
+      .emailButton {
+        max-width: 600px !important;
+        width: 100% !important;
+      }
+      .emailButton a {
+        display: block !important;
+        font-size: 18px !important;
+      }
 
-  .changeMinWidth {
-    padding: 10px 0px 0px 0px !important;
-  }
+      .changeMinWidth {
+        padding: 10px 0px 0px 0px !important;
+      }
 
-  .emailButtonSplash {
-    max-width: 600px !important;
-    width: 100% !important;
-  }
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
+      .emailButtonSplash {
+        max-width: 600px !important;
+        width: 100% !important;
+      }
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
 
-}
+    }
 
-/* #### Mobile Phones Landscape #### */
-@media screen and (max-device-width: 640px) and (orientation: landscape){
-  /* some CSS here */
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
-}
+    /* #### Mobile Phones Landscape #### */
+    @media screen and (max-device-width: 640px) and (orientation: landscape){
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
+    }
 
-/* #### Mobile Phones Portrait or Landscape #### */
-@media screen and (max-device-width: 640px){
-  /* some CSS here */
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
-}
+    /* #### Mobile Phones Portrait or Landscape #### */
+    @media screen and (max-device-width: 640px){
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
+    }
 
-/* #### iPhone 4+ Portrait or Landscape #### */
-@media screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
-  /* some CSS here */
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
-}
+    /* #### iPhone 4+ Portrait or Landscape #### */
+    @media screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
+    }
 
-/* #### iPhone 5 Portrait or Landscape #### */
-@media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
-  /* some CSS here */
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
-}
+    /* #### iPhone 5 Portrait or Landscape #### */
+    @media (device-height: 568px) and (device-width: 320px) and (-webkit-min-device-pixel-ratio: 2){
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
+    }
 
-/* #### iPhone 6 and 6 plus Portrait or Landscape #### */
-@media (min-device-height: 667px) and (min-device-width: 375px) and (-webkit-min-device-pixel-ratio: 3){
-  /* some CSS here */
-  .two-column .column,
-  .three-column .column {
-    max-width: 100% !important;
-    border: 1px solid red;
-  }
-  .two-column img {
-    max-width: 100% !important;
-  }
-  .three-column img {
-    max-width: 75% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
-}
+    /* #### iPhone 6 and 6 plus Portrait or Landscape #### */
+    @media (min-device-height: 667px) and (min-device-width: 375px) and (-webkit-min-device-pixel-ratio: 3){
+      .two-column .column,
+      .three-column .column {
+        max-width: 100% !important;
+      }
+      .two-column img {
+        max-width: 100% !important;
+      }
+      .three-column img {
+        max-width: 75% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
+    }
 
-/* #### Tablets Portrait or Landscape #### */
-@media screen and (min-device-width: 768px) and (max-device-width: 1024px){
-  /* some CSS here */
-  .three-column .column {
-    max-width: 33% !important;
-    border: 1px solid blue;
-  }
-  .two-column .column {
-    max-width: 50% !important;
-  }
-  .column {
-    height: auto !important;
-    width: auto !important;
-  }
+    /* #### Tablets Portrait or Landscape #### */
+    @media screen and (min-device-width: 768px) and (max-device-width: 1024px){
+      .three-column .column {
+        max-width: 33% !important;
+      }
+      .two-column .column {
+        max-width: 50% !important;
+      }
+      .column {
+        height: auto !important;
+        width: auto !important;
+      }
 
-}
+    }
 
-/* #### Desktops #### */
-@media screen and (min-width: 1024px){
-  /* some CSS here */
-
-}
+    /* #### Desktops #### */
+    @media screen and (min-width: 1024px){
+      .three-column .column {
+        max-width: 33% !important;
+      }
+      .two-column .column {
+        max-width: 50% !important;
+      }
+      .column {
+        height: 100% !important;
+        width: 100% !important;
+      }
+    }
 
     @font-face {
       font-family: open_sansregular;
