@@ -122,7 +122,7 @@
         <?php include 'header-nmq.php';?>
         <?php include 'landing-image-nmq.php';?>
         <?php include 'three-cols-nmq.php';?>
-        <?php include 'footer-nmq.php';?>
+
         <!-- layout two -->
         <?php include 'header-two-nmq.php'; ?>
         <?php include 'stacked-col-img-nmq.php';?>
