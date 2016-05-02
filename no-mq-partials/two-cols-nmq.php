@@ -22,15 +22,18 @@ echo '
                                   <div class="mktEditable" id="twoColOneHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                                   <div class="mktEditable" id="twoColOneText"><p>Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>
                                   <p>Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p></div>
-                                    <div class="holder" style="height:35px;width:95%;"></div>
+                                    <div class="holder" style="height:35px;width:95%;Margin:8px;"></div>
 
+                                    <div class="mktEditable" id="twoColOneBtn">
                                     <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="position:absolute; bottom:0px; border-radius:0px; background-color:#6DC6DD; width:95%;">
                                         <tr>
                                             <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                                <div class="mktEditable" id="twoColOneBtn"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                              <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                                             </td>
                                         </tr>
                                     </table>
+                                    </div>
+
                                 </td>
                             </tr>
                         </table>
@@ -55,15 +58,18 @@ echo '
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
                                   <div class="mktEditable" id="twoColTwoHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                                   <div class="mktEditable" id="twoColTwoText"><p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sed ante pellentesque, posuere leo id, eleifend dolor.</p></div>
-                                    <div class="holder" style="height:35px;width:95%;"></div>
+                                    <div class="holder" style="height:35px;width:95%;Margin:8px;"></div>
 
+                                    <div class="mktEditable" id="twoColTwoBtn">
                                     <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="position:absolute; bottom:0px; border-radius:0px; background-color:#6DC6DD; width:95%;">
                                         <tr>
                                             <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                                <div class="mktEditable" id="twoColTwoBtn"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                              <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                                             </td>
                                         </tr>
                                     </table>
+                                    </div>
+
                                 </td>
                             </tr>
                         </table>

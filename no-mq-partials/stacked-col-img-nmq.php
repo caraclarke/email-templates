@@ -17,13 +17,15 @@ echo '
                         <div class="mktEditable" id="topColSubHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                         <div class="mktEditable" id="topColText"><p>Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p></div>
 
+                        <div class="mktEditable" id="topColButton">
                         <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; margin-top:7px; background-color:#6DC6DD; width:100%;">
                           <tr>
                             <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                              <div class="mktEditable" id="topColButton"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                              <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                             </td>
                           </tr>
                         </table>
+                        </div>
 
                       </td>
                     </tr>
@@ -32,13 +34,15 @@ echo '
                         <div class="mktEditable" id="bottomColSubHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                         <div class="mktEditable" id="bottomColText"><p>Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p></div>
 
+                          <div class="mktEditable" id="bottomColButton">
                           <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="border-radius:0px; margin-top:7px; background-color:#6DC6DD; width:100%;">
                             <tr>
                               <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                <div class="mktEditable" id="bottomColButton"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                               </td>
                             </tr>
                           </table>
+                          </div>
 
                       </td>
                     </tr>

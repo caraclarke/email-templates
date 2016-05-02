@@ -21,15 +21,18 @@ echo '
                       <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
                         <div class="mktEditable" id="colOneHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                         <div class="mktEditable" id="colOneText"><p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p></div>
-                        <div class="holder" style="height:35px;width:95%;"></div>
+                        <div class="holder" style="height:35px;width:95%;Margin:8px;"></div>
 
+                        <div class="mktEditable" id="colOneBtn">
                         <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="position:absolute; bottom:0px; border-radius:0px; background-color:#6DC6DD; width:95%;">
                             <tr>
                                 <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                    <div class="mktEditable" id="colOneBtn"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                  <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                                 </td>
                             </tr>
                         </table>
+                        </div>
+
                       </td>
                     </tr>
                   </table>
@@ -54,15 +57,18 @@ echo '
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
                                   <div class="mktEditable" id="colTwoHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                                   <div class="mktEditable" id="colTwoText"><p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p></div>
-                                  <div class="holder" style="height:35px;width:95%;"></div>
+                                  <div class="holder" style="height:35px;width:95%;Margin:8px;"></div>
 
+                                  <div class="mktEditable" id="colTwoBtn">
                                   <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="position:absolute; bottom:0px; border-radius:0px; background-color:#6DC6DD; width:95%;">
                                       <tr>
                                           <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                              <div class="mktEditable" id="colTwoBtn"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                            <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                                           </td>
                                       </tr>
                                   </table>
+                                  </div>
+
                                 </td>
                             </tr>
                         </table>
@@ -87,15 +93,18 @@ echo '
                                 <td class="text" style="padding-bottom:0;padding-right:0;padding-left:0;padding-top:10px;" >
                                   <div class="mktEditable" id="colThreeHeader"><p class="h2" style="font-size: 18px; font-weight: bold; Margin-bottom: 12px;">Lorem sub header</p></div>
                                   <div class="mktEditable" id="colThreeText"><p>Scelerisque congue eros eu posuere. Praesent in felis ut velit pretium lobortis rhoncus ut erat.</p></div>
-                                  <div class="holder" style="height:35px;width:95%;"></div>
+                                  <div class="holder" style="height:35px;width:95%;Margin:8px;"></div>
 
+                                  <div class="mktEditable" id="colThreeBtn">
                                   <table border="0" cellpadding="0" cellspacing="0" class="emailButton" style="position:absolute; bottom:0px; border-radius:0px; background-color:#6DC6DD; width:95%;">
                                       <tr>
                                           <td align="center" class="emailButtonContent paddingButtonMin" style="padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-                                              <div class="mktEditable" id="colThreeBtn"><a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a></div>
+                                            <a href="#" target="_blank" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; text-decoration:none;">Click Me</a>
                                           </td>
                                       </tr>
                                   </table>
+                                  </div>
+
                                 </td>
                             </tr>
                         </table>
